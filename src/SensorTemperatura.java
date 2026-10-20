@@ -33,7 +33,6 @@ public class SensorTemperatura {
     }
 
     // Metodo utilitario para mostrar la lectura
-
     public void mostrarLectura() {
         System.out.println("Sensor: " + idSensor + " | Lectura: " + valorActual + " " + unidad);
     }
